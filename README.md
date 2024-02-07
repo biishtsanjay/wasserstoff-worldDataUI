@@ -31,8 +31,7 @@ and various libraries.
 After reading through the entire figma thoroughly I broke project into a small component. First made Navbar, Footer, and Sidebar, and after that came to the MapDesign, Bar chart. For that I used react libraries which was mentioned above. For navigation I used "react-router-dom" library, for map I used "react-simple-map" library, and for barCharts I used "recharts" library for styling I used SASS. I faced challenges in making mapdesign compounents and barCharts components.
 
 ## 𝗛𝗼𝘀𝘁𝗲𝗱 𝗟𝗶𝗻𝗸...
-
-## Video link...
+https://wasserstoff-world-data-ui.vercel.app/
 
 ## npm start..
 
